@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lyfe00011/whatsapp-bot.git"
+    "url": "git+https://github.com/A4edits/AEXDBOT.git"
   },
   "keywords": [
     "whatsapp",
     "whatsapp bot",
     "user bot"
   ],
-  "author": "lyfe00011",
+  "author": "AEXD-ALISER",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/lyfe00011/whatsapp-bot/issues"
+    "url": "https://github.com/A4edits/AEXDBOT/issues"
   },
-  "homepage": "https://github.com/lyfe00011/whatsapp-bot#readme",
+  "homepage": "https://github.com/A4edits/AEXDBOT#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.21.1",
